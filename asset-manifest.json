@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/team-registration-app/static/css/main.7a2836db.css",
+    "main.js": "/team-registration-app/static/js/main.768c0e15.js",
+    "static/js/787.09c7f346.chunk.js": "/team-registration-app/static/js/787.09c7f346.chunk.js",
+    "index.html": "/team-registration-app/index.html",
+    "main.7a2836db.css.map": "/team-registration-app/static/css/main.7a2836db.css.map",
+    "main.768c0e15.js.map": "/team-registration-app/static/js/main.768c0e15.js.map",
+    "787.09c7f346.chunk.js.map": "/team-registration-app/static/js/787.09c7f346.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a2836db.css",
+    "static/js/main.768c0e15.js"
+  ]
+}
